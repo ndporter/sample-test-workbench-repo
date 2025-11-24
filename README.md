@@ -4,6 +4,6 @@ Ceci n'est pas une lesson.
 
 This is not a lesson. It is a test adaptation of the Carpentries Workbench template repository.
 
-## uthors
+## Authors
 
 [Nathaniel Porter](https://github.com/ndporter)
