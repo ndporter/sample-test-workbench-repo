@@ -10,6 +10,4 @@ This is a new lesson built with [The Carpentries Workbench][workbench].
 ::: prereq
 - prerequisite 1
 - prerequisite 2
-- ...
 :::
-
