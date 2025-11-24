@@ -21,7 +21,7 @@ carpentry_description: 'A fake lesson using the Carpentries Workbench to test fu
 title: 'Sample Test Workbench Repo'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ 2025-11-24
+created: 2025-11-24
 
 # Comma-separated list of keywords for the lesson
 keywords: 'testing, lesson, pre-alpha, english'
